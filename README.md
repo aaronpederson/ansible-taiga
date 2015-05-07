@@ -44,7 +44,7 @@
 ```
 - hosts: servers
   roles:
-    - role: package/taiga
+    - role: telusdigital.taiga
       taiga_hostname: "mytaiga.com"
       taiga_database_host: "db.mytaiga.com"
       taiga_database_port: 5432
