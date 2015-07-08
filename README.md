@@ -37,7 +37,7 @@
 - [telusdigital.upstart](https://github.com/telusdigital/ansible-upstart/)
 - [telusdigital.python](https://github.com/telusdigital/ansible-python/)
 - [telusdigital.nginx](https://github.com/telusdigital/ansible-nginx/)
-- [telusdigital.postgres](https://github.com/telusdigital/ansible-postgres/)
+- [telusdigital.postgresql](https://github.com/telusdigital/ansible-postgresql/)
 - [telusdigital.logrotate](https://github.com/telusdigital/ansible-logrotate/)
 
 ## Example Playbook
