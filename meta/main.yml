@@ -36,7 +36,7 @@ dependencies:
       - libxml2-dev
       - libxslt-dev
   - role: telusdigital.nginx
-  - role: telusdigital.postgres
+  - role: telusdigital.postgresql
     postgres_client: yes
   - role: telusdigital.logrotate
     logrotate_name: taiga
